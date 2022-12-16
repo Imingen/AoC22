@@ -1,0 +1,8 @@
+C:\Users\marisi\source\repos\AdventOfCode2022\AdventOfCode\AdventOfCode\bin\Debug\AdventOfCode.exe.config
+C:\Users\marisi\source\repos\AdventOfCode2022\AdventOfCode\AdventOfCode\bin\Debug\AdventOfCode.exe
+C:\Users\marisi\source\repos\AdventOfCode2022\AdventOfCode\AdventOfCode\bin\Debug\AdventOfCode.pdb
+C:\Users\marisi\source\repos\AdventOfCode2022\AdventOfCode\AdventOfCode\obj\Debug\AdventOfCode.csproj.AssemblyReference.cache
+C:\Users\marisi\source\repos\AdventOfCode2022\AdventOfCode\AdventOfCode\obj\Debug\AdventOfCode.csproj.SuggestedBindingRedirects.cache
+C:\Users\marisi\source\repos\AdventOfCode2022\AdventOfCode\AdventOfCode\obj\Debug\AdventOfCode.csproj.CoreCompileInputs.cache
+C:\Users\marisi\source\repos\AdventOfCode2022\AdventOfCode\AdventOfCode\obj\Debug\AdventOfCode.exe
+C:\Users\marisi\source\repos\AdventOfCode2022\AdventOfCode\AdventOfCode\obj\Debug\AdventOfCode.pdb
